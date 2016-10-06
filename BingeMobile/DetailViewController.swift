@@ -26,6 +26,7 @@ class DetailViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         self.configureView()
+        print("first commit")
     }
 
     override func didReceiveMemoryWarning() {
